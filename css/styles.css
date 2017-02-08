@@ -1,0 +1,16 @@
+.Body{
+  width: 80%;
+  float:right;
+}
+.sidebar{
+  float: left;
+  width: 20%;
+  background-color: black;
+  color: silver;
+}
+.head{
+  text-align: center;
+  color: gold;
+  font-size: 250%;
+
+}
